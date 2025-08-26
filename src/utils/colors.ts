@@ -1,0 +1,17 @@
+export const COLORS = {
+  primary: '#A1CE50',
+  secondary: '#FF981F33',
+  dark: '#1E232C',
+  grey: '#848484',
+  black: '#000000',
+  white: '#FFFFFF',
+  bg: '#F3F5F7',
+  border: '#CCCCCC',
+  border2: '#E6EAEF',
+  closeBtnBg: '#E7F2B0',
+  camereBtn: '#fff2',
+  overly: '#0008',
+  red: '#F25C5C',
+  orange: '#FFA726',
+  blue: '#42A5F5',
+};
